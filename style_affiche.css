@@ -1,0 +1,35 @@
+body,pre {
+	font-family: helvetica, arial, sans-serif;
+	 }
+
+a {
+	color: black;
+
+}
+
+.intro {
+	font-size: 120%;
+}
+
+.texte {
+
+	border: 0px solid white;
+	max-width: 38em;
+/*	float: right;
+*/
+	margin: 30px auto;
+
+
+
+}
+
+.projet {
+
+	border: 1px solid white;
+}
+
+.screenshot {
+	max-width: 40%; float: left;
+	margin: 0 10px 10px 0;
+	border: 1px solid black;
+}
